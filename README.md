@@ -10,6 +10,4 @@ He consulted with his team, researched potential solutions, and experimented wit
 
 In the end, the project was finished on time and within budget, and Jason's perseverance paid off in the form of a successful product launch. He knew that he would face more obstacles in the future, but he was ready to tackle them with the same courage and determination that had gotten him through this tough experience.
 
-Actually, Jason is my name
-
 
