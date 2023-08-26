@@ -123,4 +123,3 @@ In the end, the project was finished on time and within budget, and hi persevera
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
