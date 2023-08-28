@@ -79,14 +79,10 @@ In the end, the project was finished on time and within budget, and hi persevera
 
 ## Github Stats  
 
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriff-rango&langs_count=10&bg_color=30,DD4814,7432FF&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=flurryunicorn&title_color=6FDA44&bg_color=30,DD4814,7432FF&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-       
-
-  
-
-
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flurryunicorn&langs_count=10&bg_color=30,DD4814,7432FF&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=flurryunicorn&title_color=6FDA44&bg_color=30,DD4814,7432FF&text_color=FFFFFF&rank_icon=github&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+     </div>  
 
 
 <br />
