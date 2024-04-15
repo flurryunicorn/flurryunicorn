@@ -17,7 +17,7 @@ He realized that setbacks and failures are a natural part of the development pro
 
 He consulted with his team, researched potential solutions, and experimented with different approaches until he finally found a fix. It wasn't easy, but he learned that true success in development comes from having the courage to face challenges head-on and never giving up.
 
-In the end, the project was finished on time and within budget, and hi perseverance paid off in the form of a successful product launch. He knew that he would face more obstacles in the future, but he was ready to tackle them with the same courage and determination that had gotten him through this tough experience.  
+In the end, the project was finished on time and within budget, and he perseverance paid off in the form of a successful product launch. He knew that he would face more obstacles in the future, but he was ready to tackle them with the same courage and determination that had gotten him through this tough experience.  
 
 <br/>  
 
